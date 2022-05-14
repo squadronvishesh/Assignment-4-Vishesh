@@ -1,0 +1,26 @@
+[
+  {
+  "cardDrawn": 2,
+  "routeConnected": false, 
+  "score": 0,
+  "location":[]
+  },
+  {
+  "cardDrawn": 0,
+  "routeConnected": true, 
+  "score": 4,
+  "location":["PHX" , "El Paso"]  
+  },
+  {
+  "cardDrawn": 0,
+  "routeConnected": true, 
+  "score": 4,
+  "location":["Houston", "New Orleans"]  
+  },
+  {
+    "cardDrawn": 0,
+    "routeConnected": true, 
+    "score": 2,
+    "location":["LA", "PHX"]  
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+  "cardDrawn": 2,
+  "routeConnected": false, 
+  "score": 0,
+  "location":[]
+  },
+  {
+  "cardDrawn": 0,
+  "routeConnected": true, 
+  "score": 4,
+  "location":["NYC", "DC"]  
+  },
+  {
+  "cardDrawn": 2,
+  "routeConnected": false, 
+  "score": 0,
+  "location":[]  
+  },
+  {
+  "cardDrawn": 0,
+  "routeConnected": true, 
+  "score": 7,
+  "location":["Denver", "Omaha"]  
+  } 
+]

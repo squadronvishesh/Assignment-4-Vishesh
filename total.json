@@ -1,0 +1,17 @@
+{
+  "$schema": 'https://vega.github.io/schema/vega-lite/v5.json',
+  "description": 'Sum of the total scores',
+  "data": {
+    "values": [
+      {"Player": "P1", "score": 6},
+      {"Player": "P2", "score": 11},
+      {"Player": "P3", "score": 6},
+      {"Player": "P4", "score": 10}
+    ]
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {"field": "Player", "type": "ordinal"},
+    "y": {"field": "Total Score", "type": "quantitative"}
+  }
+  }

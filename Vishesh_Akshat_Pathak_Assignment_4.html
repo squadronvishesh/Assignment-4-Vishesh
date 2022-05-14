@@ -1,0 +1,35 @@
+<html>
+<head>
+<title> Assignment 3 - Vishesh Akshat Pathak</title>
+<script src="https://cdn.jsdelivr.net/npm/vega@5.21.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.2"></script>
+<script src="https://d3js.org/d3.v6.js"></script>
+
+</head>
+<body>
+    <h2 style="text-align: center;">Assignment 4 Visualizations: Vishesh Akshat Pathak</h2>
+
+<object type="image/svg" data="stacked.svg">
+    <img src="stacked.svg" />
+</object>
+
+<object type="image/svg" data="bar.svg">
+    <img src="bar.svg" />
+</object>
+
+<object type="image/svg" data="total.svg">
+    <img src="total.svg" />
+</object>
+
+<object type="image/svg" data="barh.svg">
+    <img src="barh.svg" />
+</object>
+<div id="vis12"></div>
+
+<script>
+  vegaEmbed("#vis", "total.json");
+</script>
+
+</body>
+</html>

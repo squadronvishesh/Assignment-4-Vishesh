@@ -1,0 +1,26 @@
+[
+  {
+  "cardDrawn": 2,
+  "routeConnected": false, 
+  "score": 0,
+  "location":[]
+  },
+  {
+  "cardDrawn": 0,
+  "routeConnected": true, 
+  "score": 2,
+  "location":["Duluth", "Omaha"]
+  },
+  {
+  "cardDrawn": 2,
+  "routeConnected": false, 
+  "score": 0,
+  "location":[]  
+  },
+  {
+  "cardDrawn": 0,
+  "routeConnected": true, 
+  "score": 4,
+  "location":["Sault St Marie", "Duluth"]  
+  }
+]
